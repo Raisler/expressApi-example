@@ -3,7 +3,7 @@ Este é um exemplo de uma mini-api utilizando Express e o Banco de Dados na Nuve
 
 ## Para instalação das dependências digite (no Mac ou Linux, utilize Sudo):
 
-#npm install
+# npm install
 
 ## Para rodar a api:
 
