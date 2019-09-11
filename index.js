@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 app.post('/registro', async (req, res, next) => {
 
         const produto = await Produto.create(req.body)
-        return produto.save()    
+        return produto.save()
 })
 
 app.listen(8019, () => 
